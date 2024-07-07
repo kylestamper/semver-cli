@@ -3,8 +3,8 @@ package entities
 import (
 	"errors"
 	"fmt"
-	"github.com/maykonlf/semver-cli/internal/enum/phases"
-	"github.com/maykonlf/semver-cli/internal/utils/str"
+	"github.com/kylestamper/semver-cli/internal/enum/phases"
+	"github.com/kylestamper/semver-cli/internal/utils/str"
 	"regexp"
 )
 
